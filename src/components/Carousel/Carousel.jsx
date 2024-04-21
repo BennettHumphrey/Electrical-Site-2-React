@@ -84,7 +84,7 @@ const Carousel = ({ data, options, styles }) => {
             <div className={`${styles.icon}`} >
               {slide.svg}
             </div>
-            <p className={`${styles.title}`} >{slide.title}</p>
+            <p className={`${styles.title}`} >{slide.name}</p>
               {options.line && 
                 <div className={`${styles.lines}`}>
                   <div className={`${styles.line}`} />
