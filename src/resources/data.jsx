@@ -70,7 +70,7 @@ export const navOptions = [
 
 export const headerSlides = [
     {
-        img: "./imgs/Vancouver-Sunset.jpg",
+        img: "./imgs/Vancouver-Sunset.webp",
         svg: <FiSun />,
         href: '../residential',
         title: "Residential Services",
@@ -84,7 +84,7 @@ export const headerSlides = [
         text: "Data wiring, alarm systems, new construction, and much more!",
     },
     {
-        img: "./imgs/Lighting-Display.jpg",
+        img: "./imgs/Lighting-Display.webp",
         svg: <HiOutlineLightBulb  />,
         href: '../industrial',
         title: "Lighting Design",

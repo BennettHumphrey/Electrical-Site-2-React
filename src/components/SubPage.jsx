@@ -31,7 +31,7 @@ const SubPage = ({ data }) => {
                 {data.seal && 
                 <div>
                   <img className="relative w-[100px] h-[100px] m-auto mt-12"
-                      src="./imgs/partner-logo.svg" alt="Cat"/>
+                      src="./imgs/partner-logo.svg" alt="Partner Logo"/>
                   <figcaption className='text-center'>
                     Seal of Approval
                   </figcaption>

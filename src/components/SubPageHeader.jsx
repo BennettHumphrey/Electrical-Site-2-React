@@ -5,7 +5,7 @@ const SubPageHeader = ({data}) => {
  
   return (
     <div className="flex flex-col justify-center text-center z-10
-                          bg-[url(/imgs/Vancouver-Skyline-Cloudy.jpg)] bg-cover bg-bottom
+                          bg-[url(/imgs/Vancouver-Skyline-Cloudy.webp)] bg-cover bg-bottom
                           sm:bg-[left_52%]">
         <div className="h-full w-full bg-[#FFFA] z-20">
             <h1 className='my-8 mx-4 z-30 text-3xl' >{data.headerTitle}</h1>
